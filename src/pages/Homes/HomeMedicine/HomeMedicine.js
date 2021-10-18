@@ -15,7 +15,7 @@ const HomeMedicine = () => {
             <div>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-12 col-sm-1">
+                    <div className="col-lg-12 col-md-6 col-sm-1">
                         <div className="row">
                         {
                             Medicines.map(Medicine => <HomeMedicineCard key={Medicine.id} Medicine={Medicine} ></HomeMedicineCard>)
