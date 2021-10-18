@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import HomeMedicineCard from '../HomeMedicineCard/HomeMedicineCard';
 
 const HomeMedicine = () => {
@@ -24,8 +25,9 @@ const HomeMedicine = () => {
                 </div>
             </div>
         </div>
-    );
-
+        <div className="text-center my-3">
+        <Link to="/medicine" class="btn button fw-bold bg-primary text-white" ><i class="fas fa-pills"></i> Buy Medicine</Link>
+        </div>
         </div>
     )
 }
