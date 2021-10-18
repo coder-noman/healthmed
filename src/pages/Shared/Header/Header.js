@@ -11,11 +11,11 @@ const Header = () => {
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <nav className="navbar-nav">
-            <NavLink to="/home" className="nav-link active">Home</NavLink>
-            <NavLink to="/About" className="nav-link active">About</NavLink>
-            <NavLink to="/doctor" className="nav-link active">Doctor</NavLink>
-            <NavLink to="/medicine" className="nav-link active">Medicine</NavLink>
+      <nav className="navbar-nav ms-5">
+            <NavLink to="/home" className="nav-link active fw-bold fs-5">Home</NavLink>
+            <NavLink to="/About" className="nav-link active fw-bold fs-5">About</NavLink>
+            <NavLink to="/doctor" className="nav-link active fw-bold fs-5">Doctor</NavLink>
+            <NavLink to="/medicine" className="nav-link active fw-bold fs-5">Medicine</NavLink>
       </nav>
     </div>
   </div>

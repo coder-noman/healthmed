@@ -15,20 +15,27 @@
       },
       {
         "id": 3,
+        "name": "Napa Extend 665mg",
+      "price": 1.51,
+      "brand": "Beximco Pharmaceuticals Ltd.",
+      "image": "https://i.ibb.co/VBNt7MK/ey-Jid-WNr-ZXQi-Oi-Jhcm9n-Z2-Ei-LCJr-ZXki-Oi-Jt-ZWRp-Y2lu-ZVwv-MTJc-Lz-Ey-NDc2-LU5hc-GEt-RXh0-ZW5k-L.jpg"
+    },
+      {
+        "id": 4,
         "name": "Nestlé LACTOGEN 1 Infant Formula TIN",
         "price": 630,
         "brand": "Nestle Bangladesh",
         "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5NjAxLU5lc3RsLUxBQ1RPR0VOLTEtSW5mYW50LUZvcm11bGEtVElOLWVoc3kucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "Horlicks 1000 1000gm",
         "price": 645,
         "brand": "Unilever",
         "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5MzMzLUhvcmxpY2tzLVN0YW5kYXJkLUphci00NnBrLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
       },
       {
-        "id": 5,
+        "id": 6,
         "name": "NeoCare Belt System Baby Diaper S",
         "price": 720,
         "brand": "Incepta Pharmaceuticals Ltd.",
