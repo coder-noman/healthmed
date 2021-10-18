@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Todd S. Koppel, MD",
+        "specialist": "Regenerative Medicine Specialist - General",
+        "contact": "(201) 823-5913",
+        "image": "https://a.doctor.com/img?p=providers/707a0589ff30c1ab4d55cbbcc35ac9c3_drkoppel.jpg&w=92"
+      },
+      {
+        "id": 2,
+        "name": "Alice Urbankova, DDS, PHD",
+        "specialist": "Dentist - General",
+        "contact": "(201) 949-3258",
+        "image": "https://a.doctor.com/img?p=providers/96b5b51c391611c220e747916a3af57e_alice.png&w=92"
+      },
+      {
+        "id": 3,
+        "name": "Niral Patel, DPM",
+        "specialist": "Podiatrist (Foot Specialist) - Foot & Ankle Surgery",
+        "contact": "(862) 343-8861",
+        "image": "https://a.doctor.com/img?p=providers/1f353aa25847a816bce8f05fb392a4fb_patel.png&w=92"
+      },
+      {
+        "id": 4,
+        "name": "Dr. Jose Loor, DPM, FACFAOM",
+        "specialist": "Podiatrist (Foot Specialist) - Foot & Ankle Surgery",
+        "contact": "(862) 343-8803",
+        "image": "https://a.doctor.com/img?p=providers/d3171f3ee1136888e8f44d4f415dd0aa_decool.png&w=92"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Demetrios Markouizos, MD, FAAP",
+        "specialist": "Pediatrician (Kids / Children Specialist) - General",
+        "contact": "(929) 357-2738",
+        "image": "https://a.doctor.com/img?p=providers/1bfe8e7e3c6a085cc6d424a420ee9738_demetriosmarkouizos.png&w=92"
+      }
+]

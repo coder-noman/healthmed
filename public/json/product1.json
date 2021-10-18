@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Napa Extend 665mg",
+      "price": 1.51,
+      "brand": "Beximco Pharmaceuticals Ltd.",
+      "image": "https://i.ibb.co/VBNt7MK/ey-Jid-WNr-ZXQi-Oi-Jhcm9n-Z2-Ei-LCJr-ZXki-Oi-Jt-ZWRp-Y2lu-ZVwv-MTJc-Lz-Ey-NDc2-LU5hc-GEt-RXh0-ZW5k-L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Napa EXTRA 65mg+500mg",
+      "price": 2.38,
+      "brand": "Beximco Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjVcLzI1MjcyLU5hcGEtRVhUUkEtNjVtZy01MDBtZy1uaHYzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    },
+    {
+      "id": 3,
+      "name": "Seclo 20 20mg",
+      "price": 5.4,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMTdcLzE3MTYwLVNlY2xvLTIwLTIwbWctMmpxbi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0="
+    },
+    {
+      "id": 4,
+      "name": "Calbo D 500mg+200 IU",
+      "price": 189,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvM1wvMzAxMy1DYWxiby1ELTUwMG1nLTIwMElVLWR2dmEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 5,
+      "name": "Napa 120mg/5ml",
+      "price": 20.7,
+      "brand": "Beximco Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjFcLzIxMTU5LU5hcGEtMTIwbWctNW1sLXVoOXAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 6,
+      "name": "Rosen 28 3mg/0.03mg",
+      "price": 359.1,
+      "brand": "Incepta Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjRcLzI0ODg0LVJvc2VuLTI4LTNtZy0wLXFtZDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 7,
+      "name": "Ceevit 250mg",
+      "price": 1.71,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjhcLzI4NDAxLUNlZXZpdC0yNTBtZy1nanZ6LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0="
+    },
+    {
+      "id": 8,
+      "name": "Pantonix 20 20mg",
+      "price": 6.08,
+      "brand": "Incepta Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMTRcLzE0NDk5LVBhbnRvbml4LTIwLTIwbWctdDF0MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0="
+    },
+    {
+      "id": 9,
+      "name": "Fexo 120 120mg",
+      "price": 7.2,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvN1wvNzU0Ni1GZXhvLTEyMC0xMjBtZy1yZjc1LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    },
+    {
+      "id": 10,
+      "name": "Alatrol 10mg",
+      "price": 2.79,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjNcLzIzMDQwLUFsYXRyb2wtMTBtZy02ODl0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    },
+    {
+      "id": 11,
+      "name": "Vigorex 100 100mg",
+      "price": 45.14,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMTlcLzE5OTU2LVZpZ29yZXgtMTAwLTEwMG1nLTJvbzUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 12,
+      "name": "Nestlé LACTOGEN 1 Infant Formula TIN",
+      "price": 630,
+      "brand": "Nestle Bangladesh",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5NjAxLU5lc3RsLUxBQ1RPR0VOLTEtSW5mYW50LUZvcm11bGEtVElOLWVoc3kucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 13,
+      "name": "Horlicks 1000 1000gm",
+      "price": 645,
+      "brand": "Unilever",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5MzMzLUhvcmxpY2tzLVN0YW5kYXJkLUphci00NnBrLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    },
+    {
+      "id": 14,
+      "name": "Dabur Honey",
+      "price": 370,
+      "brand": "Dabur",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjlcLzI5NDQxLURhYnVyLUhvbmV5LWh4ZWouanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 15,
+      "name": "NeoCare Belt System Baby Diaper S",
+      "price": 720,
+      "brand": "Incepta Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3NjA4LU5lb0NhcmUtQmVsdC1TeXN0ZW0tQmFieS1EaWFwZXItUy1TbWFsbC0zLTZrZy01OG5uLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0="
+    },
+    {
+      "id": 16,
+      "name": "Savlon Baby Wipe Jar",
+      "price": 180,
+      "brand": "ACI Consumer",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMzBcLzMwNDEyLVNhdmxvbi1CYWJ5LXdpcGUtSmFyLXd4Y2guanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 17,
+      "name": "Tasty Saline(Universal)",
+      "price": 5.4,
+      "brand": "Incepta Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMzFcLzMxODA5LVRhc3R5LVNhbGluZS1Vbml2ZXJzYWwtajVkbC5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Im91dHNpZGUifSwib3ZlcmxheVdpdGgiOnsiYnVja2V0IjoiYXJvZ2dhIiwia2V5IjoibWlzY1wvd20ucG5nIiwiYWxwaGEiOjkwfX19"
+    },
+    {
+      "id": 18,
+      "name": "Glaxose D Glucose Powder Box - 200gm",
+      "price": 85,
+      "brand": "Unilever",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3ODcxLUdsYXhvc2UtRC1HbHVjb3NlLVBvd2Rlci1Cb3gtMjAwZ20tZ2NoaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0Ijoib3V0c2lkZSJ9LCJvdmVybGF5V2l0aCI6eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtaXNjXC93bS5wbmciLCJhbHBoYSI6OTB9fX0="
+    },
+    {
+      "id": 19,
+      "name": "Adovas",
+      "price": 94.5,
+      "brand": "Square Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjdcLzI3NDg3LUFkb3Zhcy1qamEwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    },
+    {
+      "id": 20,
+      "name": "Ginoba 60mg",
+      "price": 558,
+      "brand": "Radiant Pharmaceuticals Ltd.",
+      "image": "https://cdn1.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJtZWRpY2luZVwvMjhcLzI4NDI1LUdpbm9iYS02MG1nLXlleGYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJvdXRzaWRlIn0sIm92ZXJsYXlXaXRoIjp7ImJ1Y2tldCI6ImFyb2dnYSIsImtleSI6Im1pc2NcL3dtLnBuZyIsImFscGhhIjo5MH19fQ=="
+    }
+  ]
