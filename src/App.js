@@ -11,6 +11,8 @@ import LogIn from './pages/Shared/LogIn/LogIn';
 import Register from './pages/Shared/Register/Register';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './pages/PrivateRoute/PrivateRoute'
+import BuyMedicine from './pages/Medicines/BuyMedicine/BuyMedicine';
+import Appoinment from './pages/Doctors/Appoinment/Appoinment';
 
 function App() {
   return (
@@ -31,8 +33,14 @@ function App() {
           <PrivateRoute path="/medicine">
           <Medicine></Medicine>
           </PrivateRoute>
+          <Route path="/buymedicine">
+          <BuyMedicine></BuyMedicine>
+          </Route>
           <Route path="/doctor">
           <Doctor></Doctor>
+          </Route>
+          <Route path="/appoinment">
+          <Appoinment></Appoinment>
           </Route>
           <Route path="/login">
           <LogIn></LogIn>

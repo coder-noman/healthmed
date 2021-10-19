@@ -14,7 +14,7 @@ const DoctorCard = (props) => {
         <p class="card-text fw-bold">{name}</p>
         <p class="card-text">Specialist: <span className="fw-bold">{specialist}</span></p>
         <p class="card-text">Contact Number: <span className="fw-bold">{contact}</span></p>
-        <Link to="/doctor" class="btn button fw-bold bg-primary text-white" ><i class="fas fa-phone-alt"></i> For Appoinment</Link>
+        <Link to="/appoinment" class="btn button fw-bold bg-primary text-white" ><i class="fas fa-phone-alt"></i> For Appoinment</Link>
       </div>
     </div>
   </div>

@@ -11,7 +11,7 @@ const MedicineCard = (props) => {
                             <h5 class="card-title">{name}</h5>
                             <p class="card-text ">Price: <small className="fw-bold">{price}</small></p>
                             <p class="card-text">Brand: <small className="fw-bold">{brand}</small></p>
-                            <Link to="/medicine" class="btn button fw-bold bg-primary text-white" ><i class="fas fa-pills"></i> Buy Medicine</Link>
+                            <Link to="/buymedicine" class="btn button fw-bold bg-primary text-white" ><i class="fas fa-pills"></i> Buy Medicine</Link>
                         </div>
             </div>
         </div>
