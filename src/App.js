@@ -7,10 +7,15 @@ import About from './pages/Abouts/About/About'
 import Doctor from './pages/Doctors/Doctor/Doctor'
 import Medicine from './pages/Medicines/Medicine/Medicine'
 import PageNotFound from './pages/NotFound/PageNotFound/PageNotFound'
+import LogIn from './pages/Shared/LogIn/LogIn';
+import Register from './pages/Shared/Register/Register';
+import AuthProvider from './context/AuthProvider';
+import PrivateRoute from './pages/PrivateRoute/PrivateRoute'
 
 function App() {
   return (
     <div>
+      <AuthProvider>
       <Router>
         <Header></Header>
         <Switch>
@@ -23,11 +28,17 @@ function App() {
           <Route path="/about">
           <About></About>
           </Route>
-          <Route path="/medicine">
+          <PrivateRoute path="/medicine">
           <Medicine></Medicine>
-          </Route>
+          </PrivateRoute>
           <Route path="/doctor">
           <Doctor></Doctor>
+          </Route>
+          <Route path="/login">
+          <LogIn></LogIn>
+          </Route>
+          <Route path="/register">
+          <Register></Register>
           </Route>
           <Route path="*">
           <PageNotFound></PageNotFound>
@@ -35,6 +46,7 @@ function App() {
         </Switch>
         <Footer></Footer>
       </Router>
+      </AuthProvider>
     </div>
   );
 }
